@@ -1,7 +1,10 @@
 # **Coders Bots**
 ![logo](https://i.ibb.co/cr8KJTz/banner-twitch.png)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Coders-Bots/coders-bots)
 ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/saamstep/modmail/discord.js)
+![Discord Support](https://img.shields.io/discord/752991464723578951?label=Discord%20Support&labelColor=FFFFF&style=plastic&logo=Discord&link=https://discord.gg/KrzQR5Ak66&link=https://discord.gg/KrzQR5Ak66)
+[![Run on Repl.it](https://repl.it/badge/github/Coders-Bots/coders-bots)](https://repl.it/Coders-Bots/coders-bots)
 
 > Creado para coders
 
