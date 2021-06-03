@@ -1,6 +1,8 @@
 # **Coders Bots**
 ![logo](https://i.ibb.co/cr8KJTz/banner-twitch.png)
 
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/saamstep/modmail/discord.js)
+
 > Creado para coders
 
 > Nuevo Sistema de Economia!
