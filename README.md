@@ -3,7 +3,16 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Coders-Bots/coders-bots)
 ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/saamstep/modmail/discord.js)
-![Discord Support](https://img.shields.io/discord/752991464723578951?label=Discord%20Support&labelColor=FFFFF&style=plastic&logo=Discord&link=https://discord.gg/KrzQR5Ak66&link=https://discord.gg/KrzQR5Ak66)
+
+
+<a href="https://discord.gg/KrzQR5Ak66">
+    <img src="https://img.shields.io/badge/Discord-77f376.svg?style=plastic&logo=Discord">
+</a>
+
+<a href="https://heroku.com/deploy?template=https://github.com/Coders-Bots/coders-bots">
+    <img src="https://img.shields.io/badge/deploy_to-heroku-997FBC.svg?style=plastic&logo=Heroku">
+</a>
+
 [![Run on Repl.it](https://repl.it/badge/github/Coders-Bots/coders-bots)](https://repl.it/Coders-Bots/coders-bots)
 
 > Creado para coders
